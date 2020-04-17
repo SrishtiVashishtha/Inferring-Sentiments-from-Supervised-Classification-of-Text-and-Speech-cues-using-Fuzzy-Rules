@@ -1,6 +1,11 @@
 # Inferring-Sentiments-from-Supervised-Classification-of-Text-and-Speech-cues-using-Fuzzy-Rules
 Multimodal Sentiment Analysis of video reviews on social media platform, using a  a supervised fuzzy rule-based system.
 
+**Code for the paper**
+
+[Inferring Sentiments from Supervised Classification of Text and Speech cues using Fuzzy Rules](https://www.sciencedirect.com/science/article/pii/S1877050920308140?via%3Dihub)
+
+
 **Description**
 
 This paper introduces a supervised fuzzy rule-based system for multimodal sentiment classification, which can
@@ -20,3 +25,9 @@ _TextFeatures.py_: the code for implementing unimodal textfeatures based SVM and
 _SpeechFeatures.py_ : the code for implementing unimodal textfeatures based SVM and computation of Speech Confidence Scores.
 
 _FuzzyRulebasedSupervisedClassifier.py_ :the code for implementing the fuzzy rule based system using Text and Speech Confidence Scores.
+
+**Citation**
+
+If using this code, please cite our work using :
+
+>Vashishtha, Srishti, and Seba Susan. "Inferring Sentiments from Supervised Classification of Text and Speech cues using Fuzzy Rules." Procedia Computer Science, 167 (2020), pp.1370-1379.
